@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d99a5d98-68c8-4fbe-acd7-f8db453ddbd5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/数组/合并/合并两个有序数组.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/数组/最大连续1的个数.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python$1.coverage" NAME="1移除链表元素 Coverage Results" MODIFIED="1542341476191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/链表" />
+    <SUITE FILE_PATH="coverage/Python$1.coverage" NAME="最大连续1的个数 Coverage Results" MODIFIED="1542348475304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组" />
     <SUITE FILE_PATH="coverage/Python$test.coverage" NAME="test Coverage Results" MODIFIED="1542347467914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$.coverage" NAME="合并两个有序数组 Coverage Results" MODIFIED="1542347705174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组/合并" />
   </component>
@@ -79,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="合并两个有序数组.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="合并两个有序数组.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/数组/合并/合并两个有序数组.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-30">
@@ -89,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="链表相加.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/链表/链表相加.py">
+      <file leaf-file-name="最大连续1的个数.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/数组/最大连续1的个数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
-              <caret line="44" column="22" lean-forward="false" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+            <state relative-caret-position="525">
+              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -154,6 +154,7 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/数组/删除/2删除排序数组中的重复项.py" />
         <option value="$PROJECT_DIR$/数组/合并/合并两个有序数组.py" />
+        <option value="$PROJECT_DIR$/数组/最大连续1的个数.py" />
       </list>
     </option>
   </component>
@@ -211,12 +212,6 @@
             <path>
               <item name="Python数据结构" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python数据结构" type="462c0819:PsiDirectoryNode" />
-              <item name="数组" type="462c0819:PsiDirectoryNode" />
-              <item name="删除" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python数据结构" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python数据结构" type="462c0819:PsiDirectoryNode" />
               <item name="链表" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -256,26 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.合并两个有序数组">
-    <configuration name="三数之和" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/双指针法三数之和" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python数据结构" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/双指针法三数之和/三数之和.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.最大连续1的个数">
     <configuration name="1移除链表元素" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,6 +266,25 @@
       <module name="Python数据结构" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="F:\Python数据结构\链表\删除元素\1移除链表元素.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="最大连续1的个数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数组" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python数据结构" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数组/最大连续1的个数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -372,19 +367,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.三数之和" />
-      <item index="1" class="java.lang.String" itemvalue="Python.1移除链表元素" />
-      <item index="2" class="java.lang.String" itemvalue="Python.合并两个有序链表" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.合并两个有序数组" />
+      <item index="0" class="java.lang.String" itemvalue="Python.1移除链表元素" />
+      <item index="1" class="java.lang.String" itemvalue="Python.合并两个有序链表" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.合并两个有序数组" />
+      <item index="4" class="java.lang.String" itemvalue="Python.最大连续1的个数" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.合并两个有序数组" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.合并两个有序链表" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1移除链表元素" />
-        <item index="4" class="java.lang.String" itemvalue="Python.三数之和" />
+        <item index="0" class="java.lang.String" itemvalue="Python.最大连续1的个数" />
+        <item index="1" class="java.lang.String" itemvalue="Python.合并两个有序数组" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.合并两个有序链表" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1移除链表元素" />
       </list>
     </recent_temporary>
   </component>
@@ -652,6 +647,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/最大连续1的个数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           <folding />
         </state>
       </provider>
