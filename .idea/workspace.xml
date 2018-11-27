@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d99a5d98-68c8-4fbe-acd7-f8db453ddbd5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/字符串/重复子字符串.py" afterPath="$PROJECT_DIR$/字符串/重复子字符串.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/字符串/判断是否是字串.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,20 +16,10 @@
     <SUITE FILE_PATH="coverage/Python$1.coverage" NAME="最大连续1的个数 Coverage Results" MODIFIED="1542350260240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组" />
     <SUITE FILE_PATH="coverage/Python$4k.coverage" NAME="4删除链表的倒数第k个节点 Coverage Results" MODIFIED="1542350302460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/链表/链表元素删除操作" />
     <SUITE FILE_PATH="coverage/Python$test.coverage" NAME="test Coverage Results" MODIFIED="1542347467914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$.coverage" NAME="有效的括号 Coverage Results" MODIFIED="1542703593727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/栈" />
+    <SUITE FILE_PATH="coverage/Python$.coverage" NAME="判断是否是字串 Coverage Results" MODIFIED="1543303546713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字符串" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1移除链表元素.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/链表/链表元素删除操作/1移除链表元素.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="710">
-              <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2删除排序数组中的重复项.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/数组/删除/2删除排序数组中的重复项.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -99,11 +90,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="验证回文串.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="验证回文串.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/字符串/验证回文串.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="判断是否是字串.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/字符串/判断是否是字串.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -164,6 +165,7 @@
         <option value="$PROJECT_DIR$/链表/链表元素删除操作/2删除排序链表中的重复元素.py" />
         <option value="$PROJECT_DIR$/链表/链表元素删除操作/3删除链表中的重复元素(2).py" />
         <option value="$PROJECT_DIR$/字符串/重复子字符串.py" />
+        <option value="$PROJECT_DIR$/字符串/判断是否是字串.py" />
       </list>
     </option>
   </component>
@@ -205,18 +207,32 @@
             <path>
               <item name="Python数据结构" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="双指针法三数之和" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python数据结构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python数据结构" type="462c0819:PsiDirectoryNode" />
               <item name="字符串" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python数据结构" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python数据结构" type="462c0819:PsiDirectoryNode" />
-              <item name="数组" type="462c0819:PsiDirectoryNode" />
+              <item name="排序" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python数据结构" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python数据结构" type="462c0819:PsiDirectoryNode" />
               <item name="数组" type="462c0819:PsiDirectoryNode" />
-              <item name="删除" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python数据结构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="栈" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python数据结构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="树" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python数据结构" type="b2602c69:ProjectViewProjectNode" />
@@ -261,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.判断是否是字串">
     <configuration name="冒泡排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,6 +311,25 @@
       <module name="Python数据结构" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数组/最大连续1的个数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="判断是否是字串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/字符串" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python数据结构" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/字符串/判断是否是字串.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -395,16 +430,18 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.最大连续1的个数" />
       <item index="1" class="java.lang.String" itemvalue="Python.4删除链表的倒数第k个节点" />
       <item index="2" class="java.lang.String" itemvalue="Python.冒泡排序" />
+      <item index="3" class="java.lang.String" itemvalue="Python.判断是否是字串" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.冒泡排序" />
-        <item index="1" class="java.lang.String" itemvalue="Python.4删除链表的倒数第k个节点" />
-        <item index="2" class="java.lang.String" itemvalue="Python.最大连续1的个数" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.判断是否是字串" />
+        <item index="1" class="java.lang.String" itemvalue="Python.冒泡排序" />
+        <item index="2" class="java.lang.String" itemvalue="Python.4删除链表的倒数第k个节点" />
+        <item index="3" class="java.lang.String" itemvalue="Python.最大连续1的个数" />
       </list>
     </recent_temporary>
   </component>
@@ -430,7 +467,7 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33076924" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33076924" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -461,14 +498,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/排序/冒泡排序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/树/相同的树.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -839,7 +868,15 @@
     <entry file="file://$PROJECT_DIR$/字符串/验证回文串.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串/判断是否是字串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
           <folding />
         </state>
       </provider>
